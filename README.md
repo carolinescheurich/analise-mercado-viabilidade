@@ -9,7 +9,7 @@ O conjunto de dados analisado contém informações sobre Restaurantes e cafeter
 
 Os dados foram limpos e tratados, removendo valores ausentes e duplicados, e utilizados para compreender o panorama competitivo e estrutural do setor alimentício — com foco em cafeterias.
 
-## 🧠 Objetivos da Análise
+## 🎯 Objetivos da Análise
 O objetivo principal deste projeto é realizar um estudo de viabilidade para abertura de uma nova cafeteria, respondendo perguntas de negócio como:
 1. Qual é o tipo de estabelecimento mais comum na cidade?  
 2. Qual a média de assentos por tipo de restaurante?  
@@ -17,16 +17,6 @@ O objetivo principal deste projeto é realizar um estudo de viabilidade para abe
 4. Quais regiões apresentam maior concentração e maior oportunidade de instalação de novas cafeterias?  
 
 Com base nas análises, o projeto fornece recomendações sobre o tipo de estabelecimento e número ideal de assentos, apoiando decisões estratégicas para empreendedores.
-
-## 🛠️ Tecnologias Utilizadas
-O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
-
-- **Pandas** → manipulação e limpeza de dados  
-- **NumPy** → cálculos estatísticos e operações numéricas  
-- **Matplotlib** e **Seaborn** → visualizações gráficas e análises exploratórias  
-- **Jupyter Notebook** → ambiente de desenvolvimento e análise  
-
-Além do notebook de análise, o repositório também inclui uma apresentação em PDF com os principais resultados e recomendações de negócio.
 
 ## 📈 Principais Insights e Conclusões
 
@@ -46,3 +36,13 @@ Além do notebook de análise, o repositório também inclui uma apresentação 
   3. Hollywood Blvd (167)
 
   Essas áreas representam forte concorrência, mas também alta demanda, ideais para negócios diferenciados, como cafeterias com tecnologia de atendimento automatizado (ex.: garçons robôs).
+
+## 🛠️ Tecnologias e Bibliotecas Utilizadas
+O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
+
+- **Pandas** → manipulação e limpeza de dados  
+- **NumPy** → cálculos estatísticos e operações numéricas  
+- **Matplotlib** e **Seaborn** → visualizações gráficas e análises exploratórias  
+- **Jupyter Notebook** → ambiente de desenvolvimento e análise  
+
+Além do notebook de análise, o repositório também inclui uma apresentação em PDF com os principais resultados e recomendações de negócio.
