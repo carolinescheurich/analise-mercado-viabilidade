@@ -1,14 +1,5 @@
 # ☕ Análise de Mercado — Estudo de Viabilidade para Abertura de Cafeteria
 
-## 📊 Descrição do Conjunto de Dados
-O conjunto de dados analisado contém informações sobre Restaurantes e cafeterias de uma grande cidade, incluindo:
-- Tipo de estabelecimento (restaurante, fast food, cafeteria, etc.);
-- Número de assentos;
-- Endereço;
-- Informação sobre ser ou não parte de uma rede (chain).
-
-Os dados foram limpos e tratados, removendo valores ausentes e duplicados, e utilizados para compreender o panorama competitivo e estrutural do setor alimentício — com foco em cafeterias.
-
 ## 🎯 Objetivos da Análise
 O objetivo principal deste projeto é realizar um estudo de viabilidade para abertura de uma nova cafeteria, respondendo perguntas de negócio como:
 1. Qual é o tipo de estabelecimento mais comum na cidade?  
@@ -17,6 +8,15 @@ O objetivo principal deste projeto é realizar um estudo de viabilidade para abe
 4. Quais regiões apresentam maior concentração e maior oportunidade de instalação de novas cafeterias?  
 
 Com base nas análises, o projeto fornece recomendações sobre o tipo de estabelecimento e número ideal de assentos, apoiando decisões estratégicas para empreendedores.
+
+## 📊 Descrição do Conjunto de Dados
+O conjunto de dados analisado contém informações sobre Restaurantes e cafeterias de uma grande cidade, incluindo:
+- Tipo de estabelecimento (restaurante, fast food, cafeteria, etc.);
+- Número de assentos;
+- Endereço;
+- Informação sobre ser ou não parte de uma rede (chain).
+
+Os dados foram limpos e tratados, removendo valores ausentes e duplicados, e utilizados para compreender o panorama competitivo e estrutural do setor alimentício — com foco em cafeterias.
 
 ## 📈 Principais Insights e Conclusões
 
